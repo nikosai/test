@@ -1,4 +1,4 @@
 # test
 test-fixed
 
-合流したよ
+合流後のmasterだよ
