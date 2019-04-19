@@ -1,4 +1,4 @@
 # test
 test-fixed
 
-developにきたよ
+合流したよ
